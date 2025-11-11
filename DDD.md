@@ -37,7 +37,6 @@ Celem jest zaprezentowanie zależności pomiędzy encjami, agregatami oraz obiek
      - Dane kontaktowe (value object) 
     Dane Osobowe:
       - Imie (string min. 3 znaki, max 30 znaków, bez cyfr)
-
       - Nazwisko (string min. 3 znaki, max 30 znaków, bez cyfr)
       - Data urodzenia (data, walidacja: użytkownik musi mieć minimum 18 lat *w tym banku nie ma kont dla dzieci*)
       - Płeć (mężczyzna/kobieta)
